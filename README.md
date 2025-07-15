@@ -7,6 +7,8 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)]()
 
+<a href="https://www.producthunt.com/products/augy?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-augy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=993043&theme=light&t=1752561137134" alt="Augy - A GUI macOS desktop agent app with local vm. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 <p align="center">
   <img alt="Augy" width="260" src="augy.icns">
 </p>
